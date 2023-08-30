@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.dashboard {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.chart {
+  width: 30%;
+  border: 1px solid #ddd;
+  padding: 20px;
+  margin: 0 10px;
+}
